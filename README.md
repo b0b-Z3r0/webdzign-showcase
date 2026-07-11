@@ -16,4 +16,4 @@ Screenshots and demos of commercial software built by [Joel Munoz / WebDzign](ht
 | [WebDzign Mirror](./webdzign-mirror/) | Internal tool — functional & tested | Electron, React, Vite |
 | [DracZ D. GamE](./dracz-d-game/) | Final prototype | Unity, C# |
 
-Client web work (public): [OMNI IT Solutions USA](https://www.webdzign.com/projects) and [webdzign.com](https://www.webdzign.com) itself — React 19 + Vite, custom router, hand-built CSS system.
+Client web work (public): [OMNI IT Solutions USA](https://omniitsolutions.biz/) and [webdzign.com](https://www.webdzign.com) itself — React 19 + Vite, custom router, hand-built CSS system.
